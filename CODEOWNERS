@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @iiBamBlue
+/src/backend/database.py      @iiBamBlue
+/src/backend/routers/auth.py  @iiBamBlue
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @iiBamBlue
